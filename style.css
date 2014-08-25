@@ -1,0 +1,39 @@
+body{
+	font-family: helvetica, serif;
+	background-color: gray;
+	font-size: 14px;
+	margin: 20px;
+}
+p{
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+    line-height: 0.5;
+    text-align: center;
+}
+h1{
+	font-size: 2em;
+	text-transform: none;
+	font-weight: lighter;
+	color: yellow;
+	background: green;
+	font-style: italic;
+}
+a{
+	font-color: green;
+	font-weight: bolder;
+}
+#sec{
+	font-family: arial;
+	font-weight: bolder;
+	font-variant: small-caps;
+}
+h2{
+	margin: 20px;
+	padding: 10px;
+	font-size: 2em;
+	background-color: red;
+	border-style: dashed;
+	border-width: 3px;
+	border-color: blue;
+}
+
